@@ -1,0 +1,15 @@
+six==1.15.0
+h5py==2.10.0
+torchtext==0.6.0
+numpy==1.18.5
+torch==1.5.1
+gensim==3.8.1
+tensorflow_gpu==1.13.1
+transformers==2.11.0
+chainer==7.4.0
+tqdm==4.46.0
+progressbar33==2.4
+scikit_learn==0.23.1
+tensorboardX==2.0
+tensorflow==2.2.0
+flask==1.1.2
